@@ -13,5 +13,4 @@ Estou cursando analise e desenvolvimento de sistemas na ampli
   
 </div>
  
-![Snake animation](https://github.com/Cleverson-Henriques/Cleverson-Henriques/blob/output/github-contribution-grid-snake.svg)
 
