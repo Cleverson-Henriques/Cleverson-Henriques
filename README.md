@@ -12,4 +12,4 @@ Estou cursando analise e desenvolvimento de sistemas na ampli
 <a href="https://www.linkedin.com/in/henriquescleverson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/Cleverson-Henriques/blob/output/github-contribution-grid-snake.svg)
+
