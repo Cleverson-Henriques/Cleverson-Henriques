@@ -21,6 +21,14 @@
  
 </div>
 
+## Stats
+<div align="center">
+  <a href="https://github.com/Cleverson-Henriques">
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Cleverson-Henriques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleverson-Henriques&layout=compact&langs_count=7&theme=tokyonight"/>
+   
+</div>
+
 ## Contatos:
 <div>
 <a href="https://instagram.com/srclever_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
