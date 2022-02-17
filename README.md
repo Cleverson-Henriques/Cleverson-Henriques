@@ -4,7 +4,7 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <p> - Estudante de Analise e Desenvolvimento de Sistemas na Ampli </p>
-<p> - Atualmente Estudando por fora sobre Front-end e Back-end  </p>
+<p> - Atualmente Estudando sobre Front-end e Back-end  </p>
 <p> - Estudante em busca de conhecimento </p>
  </div>
 
