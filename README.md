@@ -4,7 +4,7 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <p> - Estudante de Analise e Desenvolvimento de Sistemas na Ampli </p>
-<p> - Atualmente Estudando sobre Front-end e Back-end  </p>
+<p> - Atualmente Estudando sobre Front-end  </p>
 <p> - Estudante em busca de conhecimento </p>
  </div>
 
@@ -14,9 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
  
  
 </div>
